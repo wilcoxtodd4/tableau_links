@@ -1,0 +1,14 @@
+Link:  https://public.tableau.com/app/profile/todd.wilcox5761/viz/ShotTrackingVisuals/ShotDirection
+
+This viz is a small subset of a larger statistical and visual analysis I did for two players I coach.
+
+By selecting the stroke type using the Stroke filter you can see the contact point and spot the ball lands for each shot of that type hit.
+For shot types with too much noise, sample groups 1-5 can be selected to reduce the shots included.
+
+The biggest insight from this is related to Backhands hit by Player 1.  They had good consistency with 82% of backhands in play, but very few were directed cross-court.
+  This is especially notable since Player 2 struggled with their backhand, only making 62% of their shots.
+
+
+Methodology:
+  -- Shot tracking data was gathered using the SwingVision app (iOS only) - exported as a csv.
+  -- Data cleansing and further shot classifications were done using SAS Studio, then exported to Excel as an input for Tableau.
