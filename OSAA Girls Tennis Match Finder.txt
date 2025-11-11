@@ -1,0 +1,23 @@
+Link:  https://public.tableau.com/app/profile/todd.wilcox5761/viz/OSAAMatchFinderWorkbook_17080222178530/MatchFinder
+
+This visual was created as a concept for improving the way that team matches are determined for high school tennis in the state of Oregon.
+Right now, athletic directors set up matches 6 months prior to the season.
+  -- Not only is very little known about the teams at the time, but athletic directors tend to be more invested in other sports and don't pay attention to the competitive tennis landscape.
+
+With a very large disparity in team quality, too many high school matches are lopsided (see https://public.tableau.com/app/profile/todd.wilcox5761/viz/2023SeasoninReview/2023Season for my team's results).
+However, there are good matches out there to be had.  The default display on the visual shows a potential set of competitive matches for our team?
+  Sherwood, with a team rating of 26.28 has 10 potential opponents with ratings between 24.8 and 28.15 (from the slider)
+
+The box plot design, with each of the top 12 players' individual ratings included, can be used to find even better matchups.  For instance:
+  Sheldon vs Catlin Gabel could be an ideal matchup for a variety of reasons:
+    -- Their team ratings are nearly identical
+    -- Their rating distribution shows competitive matches for their top players, who need those types of results for seeding at state.
+
+  Sherwood versus any of these schools would be good team matches.  But teams like Sprague, Catlin Gabel and Sheldon may prefer different opponents to create more even matchups for their top players.
+
+
+Methodology:
+The ratings for teams and players are based on the TRS rating system that I developed (https://github.com/wilcoxtodd4/tennis_rating_system)
+Ratings were them put into Excel for input into Tableau.
+
+
