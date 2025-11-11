@@ -1,0 +1,10 @@
+Link:  https://public.tableau.com/app/profile/todd.wilcox5761/viz/TennisTournamentTeamPerformance/Dashboard1
+
+This was just a fun project to experiment with creating custom shapes for a visual.
+
+The district tournament, despite having 7 teams, seems to always come down to Sherwood vs McMinnville.
+While the district does have several strong players from the other 5 schools, the key matches to determine the championship usually come down to the matches between these teams.
+
+This visual contains two elements of note:
+  1)  The ease of viewing the tournament in the context of these two teams.  Their matchups and results are easy to find without scanning through two large, text-heavy draw sheets.
+  2)  Results of the individual matches can be seen by hovering over each spot in the draw.  So, no information is actually lost by the conversion to the visual representation.
